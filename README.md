@@ -1,7 +1,8 @@
 # Web Login Example
 
 Build app-less, passwordless login experiences with BindID for customers that want to access your web application. This sample web app uses ReactJS to initiate strong authentication flows with the BindID service to sign in your users.
-To try out a live demo of the sample application on our CodeSandbox, [click here](https://codesandbox.io/s/priceless-bird-mucru)
+
+**To try out a live demo of the sample application on our CodeSandbox, [click here](https://codesandbox.io/s/priceless-bird-mucru)**
 
 ## Prerequisites
 
