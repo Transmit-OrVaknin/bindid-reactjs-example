@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "overrides": {
+    "follow-redirects": ">=1.14.8"
+  },
+  "engines": { 
+    "npm": ">=8.3.0" 
+  },
   "keywords": [
     "BindID"
   ],
